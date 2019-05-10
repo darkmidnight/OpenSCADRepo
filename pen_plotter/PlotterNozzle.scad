@@ -46,7 +46,6 @@ module plotterNozzle() {
 }
 }
 
-//plotterNozzle();
 
 module penmounts() {
 translate([108,13,0]) { 
