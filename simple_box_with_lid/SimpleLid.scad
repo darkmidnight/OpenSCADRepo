@@ -8,4 +8,5 @@ translate([0,0,2.5]) {
 }
 }
 
-simpleLid(40,60);
+
+//simpleLid(40,60);

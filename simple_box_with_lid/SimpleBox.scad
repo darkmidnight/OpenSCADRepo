@@ -30,7 +30,10 @@ translate([0,26,-12]) { cube([40,8,18],center=true); }
 translate([0,26.1,-11.9]) { cube([23.5,8.5,18], center=true); }
 }
 }
+ 
 
+/** The container for the rangefinder **/
+module electronicsBox() {
 difference() {
     main();
 translate([1,0,11]) {
@@ -45,6 +48,4 @@ rotate([90,0,0]) { cylinder(h=25,r1=2,r2=2,center=true); }
 }
 }
 }
-
-
-
+}
