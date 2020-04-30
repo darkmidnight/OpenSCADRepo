@@ -8,7 +8,7 @@ This repo contains SCAD code for things I've 3D printed - you can also find most
 
 * [Pen Plotter](https://www.darkmidnight.co.uk/2019/05/pen-plotter-part-2-electronics-and.html) - A pen plotter made from components scavenged from old printers and scanners and held together with these 3D printed structures.
 
-* [Yarn Slack Winder](https://www.darkmidnight.co.uk/2020/04/yarn-slack-winder.html) - A device to allow hands-free pulling of yarn from a ball of wyarnool when crocheting or knitting.
+* [Yarn Slack Winder](https://www.darkmidnight.co.uk/2020/04/yarn-slack-winder.html) - A device to allow hands-free pulling of yarn from a ball of yarn when crocheting or knitting.
 
 * **Simple Box with Lid** - A parametric simple push-fit box and lid design used for creating electronics enclosures.
 
