@@ -10,6 +10,8 @@ This repo contains SCAD code for things I've 3D printed - you can also find most
 
 * [Yarn Slack Winder](https://www.darkmidnight.co.uk/2020/04/yarn-slack-winder.html) - A device to allow hands-free pulling of yarn from a ball of yarn when crocheting or knitting.
 
+* [Laser Oche Mount](https://www.darkmidnight.co.uk/2022/05/laser-line-oche-for-dartboard.html) - A mount to hold a laser-line marker for use with a dartboard
+
 * **Simple Box with Lid** - A parametric simple push-fit box and lid design used for creating electronics enclosures.
 
 * **Fan Reducer** - A parametric(ish) reducer to connect a larger fan to smaller pipe - for example an 80mm computer fan to a 40mm PVC pipe for fume extraction
